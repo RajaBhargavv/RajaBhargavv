@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RajaBhargavv
 - 👀 I’m interested in Design verification for VLSI
-- 🌱 I’m currently learning  verilog, system verilog, UVM
+- 🌱 I’m currently learning  verilog, system verilog, UVM along with GVIM text editor and Python for scripting
+  
   
 
 <!---
